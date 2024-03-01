@@ -1,5 +1,5 @@
 #
-<div style="display: flex">
+<div style="display: flex; justity-content: center;">
 <h1>Web Developer</h1>
 </div>
 ## 🌐 Socials:
